@@ -13,6 +13,7 @@ body {
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: 24px;
+    margin: 2em auto;
 }
 .screen {
     color: white;
